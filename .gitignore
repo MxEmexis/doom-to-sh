@@ -1,0 +1,16 @@
+
+dist/doom-to-sh
+build/doom-to-sh/xref-doom-to-sh.html
+build/doom-to-sh/warn-doom-to-sh.txt
+build/doom-to-sh/PYZ-00.toc
+build/doom-to-sh/PYZ-00.pyz
+build/doom-to-sh/PKG-00.toc
+build/doom-to-sh/localpycs/struct.pyc
+build/doom-to-sh/localpycs/pyimod03_ctypes.pyc
+build/doom-to-sh/localpycs/pyimod02_importers.pyc
+build/doom-to-sh/localpycs/pyimod01_archive.pyc
+build/doom-to-sh/EXE-00.toc
+build/doom-to-sh/doom-to-sh.pkg
+build/doom-to-sh/base_library.zip
+build/doom-to-sh/Analysis-00.toc
+doom-to-sh.spec
