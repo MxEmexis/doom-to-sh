@@ -14,3 +14,4 @@ build/doom-to-sh/doom-to-sh.pkg
 build/doom-to-sh/base_library.zip
 build/doom-to-sh/Analysis-00.toc
 doom-to-sh.spec
+dist/doom-to-sh_0.0.1

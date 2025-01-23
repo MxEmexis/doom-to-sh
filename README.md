@@ -7,3 +7,8 @@ This tool picks the selected Source Port, iwad and mod files to create a .sh fil
 This program does not aim to replace tools like **ZDL**.
 
 It saves files in Linux shellscript (.sh) and Windows batch (.bat).
+
+## Required Python Libraries
+
+- `tkinter`
+
